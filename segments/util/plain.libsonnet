@@ -1,6 +1,6 @@
 {
   text(text): {
-    "style": "plain",
-    "template": text
-  }
+    style: 'plain',
+    template: text,
+  },
 }
