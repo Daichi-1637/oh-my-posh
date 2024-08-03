@@ -3,5 +3,5 @@ local plain = import './util/plain.libsonnet';
 
 {
   type: 'text',
-  foreground: color.white,
+  foreground: color.green,
 } + plain.text(' (੭ु´･ω･`)੭ु⁾⁾ ❯ ')
